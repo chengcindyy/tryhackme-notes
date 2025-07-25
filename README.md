@@ -15,8 +15,7 @@ Click on each room for my notes and takeaways:
 | Room | Notes |
 |------|-------|
 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | [notes.md](./offensive-security-intro/notes.md) |
-| [Pre-Security](https://tryhackme.com/room/presecurity) | *(coming soon)* |
-| [Blue Team Fundamentals](https://tryhackme.com/room/blueteamfun) | *(coming soon)* |
+| [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro) | [note.md] (defensive-security-intro\note.md) |
 
 ---
 

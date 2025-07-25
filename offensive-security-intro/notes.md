@@ -9,13 +9,14 @@
 A beginner-level room to introduce basic web hacking concepts in a legal, controlled environment.
 
 This room demonstrates how gobuster can be used to discover sensitive endpoints (like `/bank-transfer`), which, when analyzed further, revealed an IDOR vulnerability due to missing authorization checks.  
-這題示範了如何使用 gobuster 找到有意義的隱藏 endpoint，並在其中發現了 IDOR 漏洞。
+
+> 這題示範了如何使用 gobuster 找到有意義的隱藏 endpoint，並在其中發現了 IDOR 漏洞。
 
 ---
 
-## 🛠 Tools & Commands Used
+## 🛠 Tools & Concepts and Commands Used
 
-| Tool      | Purpose                  | Sample Command                                 |
+| Tool / Concept      | Purpose                  | Sample Command                                 |
 |-----------|--------------------------|------------------------------------------------|
 | gobuster  | Directory brute-forcing  | `gobuster dir -u http://target -w wordlist.txt` |
 
@@ -48,10 +49,9 @@ This room demonstrates how gobuster can be used to discover sensitive endpoints 
 
 ---
 
-### 🗣️ English Practice Example:
-> "I learned that IDOR vulnerabilities happen when the server doesn't check if the user is authorized to access or modify a resource identified by a parameter, like an account ID. In this case, I could transfer money by just changing a form field."
+### Note:
+ "I learned that IDOR vulnerabilities happen when the server doesn't check if the user is authorized to access or modify a resource identified by a parameter, like an account ID. In this case, I could transfer money by just changing a form field."
 
-### 📘 中文練習備註：
 > IDOR 漏洞發生在伺服器沒有驗證使用者是否有權限操作某個資源時。只要修改請求中的參數（例如帳號 ID），就可能達成未授權的資料存取或操作行為。
 
 ---
