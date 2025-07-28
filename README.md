@@ -14,19 +14,15 @@ Click on each room for my notes and takeaways:
 
 | Room | Notes |
 |------|-------|
-| [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | [notes.md](./offensive-security-intro/notes.md) |
-| [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro) | [note.md] (defensive-security-intro\note.md) |
+| [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | [note.md](./offensive-security-intro/note.md) |
+| [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro) | [note.md](./defensive-security-intro/note.md) |
+| [Search Skills](https://tryhackme.com/room/searchskills) | [note.md](./search-skills/note.md) |
 
 ---
 
 ## 🧭 Topics Covered (ongoing)
 
-- Pre-Security
-- Introduction to Cyber Security
-- Blue Team Fundamentals
-- SOC Level 1
-- Active Directory Basics
-- Common tools: Wireshark, gobuster, Event Viewer, PowerShell, Python
+
 
 ---
 
@@ -48,9 +44,4 @@ I want to build a strong foundation in defensive security and keep track of my l
 - Share my progress when applying for jobs
 - Reflect on what still needs work
 
----
-
-## ⚠ Disclaimer
-
-These are my personal notes. Walkthroughs and answers are based on my own understanding — no copy-paste solutions.
 

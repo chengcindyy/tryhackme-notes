@@ -14,9 +14,9 @@ This room focuses on learning how to monitor systems, detect threats through log
 
 ---
 
-## 🛠 Tools & Concepts and Commands Used
 
-## 🛠 Tools & Concepts Used
+
+## 🛠 Tools & Concepts and Commands Used
 
 | Tool / Concept           | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|

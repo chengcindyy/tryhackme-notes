@@ -1,6 +1,6 @@
-# 🧠 
+# 🧠 Search Skills
 🗓️ Date: 2025-07-24  
-🔗 Room URL: https://tryhackme.com/room/
+🔗 Room URL: https://tryhackme.com/room/searchskills
 🏷️ Tags: 
 
 ---
